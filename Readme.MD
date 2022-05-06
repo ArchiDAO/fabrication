@@ -17,7 +17,7 @@
 
 
 - CNC milling:
-* [ngon](htt(ps://www.food4rhino.com/en/app/ngon)
+* [ngon](https://www.food4rhino.com/en/app/ngon)
 * [parakeet](https://www.food4rhino.com/en/app/parakeet)
 * [opennest](https://www.food4rhino.com/en/app/opennest)
 
@@ -26,5 +26,5 @@
 
 
 - Github for robotic libraries
-https://github.com/visose/Robots
-https://github.com/RobotExMachina/Machina-Grasshopper
+* [Robots](https://github.com/visose/Robots)
+* [Machina](https://github.com/RobotExMachina/Machina-Grasshopper)
